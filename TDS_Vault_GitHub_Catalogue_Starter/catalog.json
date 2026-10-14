@@ -7,7 +7,8 @@
       "name": "Technirez R2600 Resin",
       "manufacturer": "Technirez",
       "part_number": "R2600",
-      "category": "Resin"
+      "category": "Resin",
+      "tds_url": "https://example.com/R2600-TDS.pdf"
     },
     {
       "id": "technirez-medium-hardener",
