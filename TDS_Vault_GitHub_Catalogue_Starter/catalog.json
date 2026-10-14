@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026-10-14-starter",
+  "products": [
+    {
+      "id": "technirez-r2600",
+      "name": "Technirez R2600 Resin",
+      "manufacturer": "Technirez",
+      "part_number": "R2600",
+      "category": "Resin"
+    },
+    {
+      "id": "technirez-medium-hardener",
+      "name": "Technirez Medium Hardener",
+      "manufacturer": "Technirez",
+      "part_number": "Medium Hardener",
+      "category": "Hardener"
+    },
+    {
+      "id": "3m-af-163-2",
+      "name": "3M Scotch-Weld AF 163-2",
+      "manufacturer": "3M",
+      "part_number": "AF 163-2",
+      "category": "Adhesive"
+    },
+    {
+      "id": "3m-dp490",
+      "name": "3M Scotch-Weld DP490",
+      "manufacturer": "3M",
+      "part_number": "DP490",
+      "category": "Adhesive"
+    },
+    {
+      "id": "loctite-ea-9396",
+      "name": "LOCTITE EA 9396 AERO",
+      "manufacturer": "Henkel",
+      "part_number": "EA 9396",
+      "category": "Adhesive"
+    },
+    {
+      "id": "duratec-1910-045",
+      "name": "Duratec 1910-045",
+      "manufacturer": "Duratec",
+      "part_number": "1910-045",
+      "category": "Coating/Gelcoat"
+    },
+    {
+      "id": "generic-mould-release",
+      "name": "Generic Mold Release Agent",
+      "manufacturer": "Generic Supplier",
+      "part_number": "MR-001",
+      "category": "Release Agent"
+    },
+    {
+      "id": "duratec-823-crystal-clear-sealer",
+      "name": "Duratec 823 Crystal Clear Sealer",
+      "manufacturer": "Duratec",
+      "part_number": "823",
+      "category": "Sealer",
+      "tds_url": "https://atlcomposites.com.au/wp-content/uploads/2025/10/DS-823-Crystal-Clear-Sealer.pdf"
+    },
+    {
+      "id": "duratec-714-002-white-surface-primer",
+      "name": "Duratec 714-002 White Surface Primer",
+      "manufacturer": "Duratec",
+      "part_number": "714-002",
+      "category": "Primer",
+      "tds_url": "https://atlcomposites.com.au/wp-content/uploads/2025/10/DS-714-002-White-Surface-Primer.pdf"
+    },
+    {
+      "id": "duratec-1794-006-white-ve-primer",
+      "name": "Duratec 1794-006 White Vinyl Ester Primer",
+      "manufacturer": "Duratec",
+      "part_number": "1794-006",
+      "category": "Primer",
+      "tds_url": "https://atlcomposites.com.au/wp-content/uploads/2025/10/DS-1794-006-White-VE-Primer.pdf"
+    }
+  ],
+  "documents": []
+}
