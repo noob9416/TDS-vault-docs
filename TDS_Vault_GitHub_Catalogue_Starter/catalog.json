@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_version": "2026-10-14-starter",
+  "catalog_version": "2026-10-16T01:31:44.693Z",
   "products": [
     {
       "id": "technirez-r2600",
@@ -8,7 +8,39 @@
       "manufacturer": "Technirez",
       "part_number": "R2600",
       "category": "Resin",
-      "tds_url": "https://atlcomposites.com.au/wp-content/uploads/2025/09/Technirez-R2600.pdf"
+      "tds_url": "https://atlcomposites.com.au/wp-content/uploads/2025/09/Technirez-R2600.pdf",
+      "description": "Demo record. Laminating epoxy resin used for infusion and wet lay-up.",
+      "sds_url": "",
+      "revision": "Prototype",
+      "revision_date": "2026-10-06",
+      "process_use": [
+        "Wet lay-up",
+        "Infusion"
+      ],
+      "mix_ratio_weight_a": "100 (resin)",
+      "mix_ratio_weight_b": "25 (hardener)",
+      "mix_ratio_volume_a": "",
+      "mix_ratio_volume_b": "",
+      "pot_life_minutes": "Confirm on controlled TDS",
+      "working_time_minutes": "Confirm on controlled TDS",
+      "cure_schedule_text": "Confirm exact cure schedule on controlled TDS.",
+      "post_cure_schedule_text": "Confirm post-cure requirements on controlled TDS.",
+      "application_temp_min_c": "18",
+      "application_temp_max_c": "30",
+      "service_temp_min_c": "",
+      "service_temp_max_c": "",
+      "viscosity_text": "Medium viscosity – confirm on TDS",
+      "density_text": "Confirm on TDS",
+      "film_thickness_text": "",
+      "coverage_text": "",
+      "flash_off_text": "",
+      "tack_free_text": "",
+      "shelf_life_text": "See current TDS / container label",
+      "storage_text": "Cool, dry, sealed container. Keep out of direct sunlight.",
+      "colour": "Clear / pale amber",
+      "voc_text": "",
+      "resin_part_number": "R2600",
+      "hardener_part_number": "Matched hardener system"
     },
     {
       "id": "technirez-medium-hardener",
