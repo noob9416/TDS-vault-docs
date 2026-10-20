@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_version": "2026-10-16T01:31:44.693Z",
+  "catalog_version": "2026-10-20T07:42:14.400Z",
   "products": [
     {
       "id": "technirez-r2600",
@@ -18,7 +18,7 @@
         "Infusion"
       ],
       "mix_ratio_weight_a": "100 (resin)",
-      "mix_ratio_weight_b": "25 (hardener)",
+      "mix_ratio_weight_b": "25 (H2403), 35 ( H2409)",
       "mix_ratio_volume_a": "",
       "mix_ratio_volume_b": "",
       "pot_life_minutes": "Confirm on controlled TDS",
@@ -40,7 +40,26 @@
       "colour": "Clear / pale amber",
       "voc_text": "",
       "resin_part_number": "R2600",
-      "hardener_part_number": "Matched hardener system"
+      "hardener_part_number": "Matched hardener system",
+      "cure_cycles": [],
+      "hardener_profiles": [
+        {
+          "id": "medium-hardener",
+          "name": "H2403",
+          "mix_ratio_weight_a": "100",
+          "mix_ratio_weight_b": "25",
+          "mix_ratio_volume_a": "",
+          "mix_ratio_volume_b": "",
+          "pot_life_minutes": "232 mins @ 25°C",
+          "working_time_minutes": "",
+          "cure_schedule_text": "",
+          "post_cure_schedule_text": "",
+          "tds_url": "",
+          "tds_revision": "",
+          "source_note": "",
+          "cure_cycles": []
+        }
+      ]
     },
     {
       "id": "technirez-medium-hardener",
